@@ -1,5 +1,5 @@
 <h1 align="center" style="text-shadow: black 3px 3px 2px">Hello, I'm James</h1>
-<h3 align="center">A Software Engineer & Student</h3>
+<h3 align="center">A Software Engineer & Student @ CSU</h3>
 
 - 💼 Software Engineer @ Via-LA
 - 🧗/🏋🏻/🚴🏻
