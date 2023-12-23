@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center" style="text-shadow: black 3px 3px 2px">Hello, I'm James</h1>
+<h3 align="center">A Software Engineer & Student</h3>
+
+- 💼 Software Engineer @ <p align="left"> <img src="./assets/ViaLA.svg" style="width: 300px;height:200px;"/> </p>
+- 🧗/🏋🏻/🚴🏻
+- 🔭 I’m currently working on FinTech Solutions in .Net/Azure
+- 🌱 I’m currently learning about pushing Azure Cloud Flows
+
+<p>You can see my portfolio page <a href="#">here</a></p>
+<p>I also
+
 
 <!--
 **Hanleyjames/Hanleyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
