@@ -1,26 +1,8 @@
 <h1 align="center" style="text-shadow: black 3px 3px 2px">Hello, I'm James</h1>
 <h3 align="center">A Software Engineer & Student</h3>
 
-- 💼 Software Engineer @ <p align="left"> <img src="./assets/ViaLA.svg" style="width: 300px;height:200px;"/> </p>
+- 💼 Software Engineer @ Via-LA
 - 🧗/🏋🏻/🚴🏻
 - 🔭 I’m currently working on FinTech Solutions in .Net/Azure
 - 🌱 I’m currently learning about pushing Azure Cloud Flows
-
-<p>You can see my portfolio page <a href="#">here</a></p>
-<p>I also
-
-
-<!--
-**Hanleyjames/Hanleyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" style="padding-top:100px;" src="https://myreadme.vercel.app/api/embed/Hanleyjames?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
