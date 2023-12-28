@@ -5,5 +5,4 @@
 - 🧗/🏋🏻/🚴🏻
 - 🔭 I’m currently working on FinTech Solutions in .Net/Azure
 - 🌱 I’m currently learning about extending possibilities in Cloud Flows
-<img align="left" style="padding-top:100px;" src="https://myreadme.vercel.app/api/embed/Hanleyjames?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
